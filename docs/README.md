@@ -4,7 +4,9 @@ blog.blueju.cn 是一个用于记录我博客文章并跳转的中转平台。
 
 简单来说，blog.blueju.cn 整合我写过的博客文章，尽管他们可能不在同一平台上。
 
-# 博客文章
+## 博客文章
+
+> 具体时间不分先后，大致起步为2018年9月
 
 1. [一个iView表单Select的坑：v-model设置Select默认选项无效](https://shimo.im/docs/FpZFRYRbSwsUxR0W/read)
 

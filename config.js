@@ -1,6 +1,6 @@
 var CONFIG = {
   // 网页 title
-  title: 'blueju-blog',
+  title: 'blog.blueju',
   
   // 网页 keywords
   keywords: 'blueju, blog',
