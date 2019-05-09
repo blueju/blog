@@ -1,18 +1,18 @@
 var CONFIG = {
   // 网页 title
-  title: 'Book-Cli',
+  title: 'blueju-blog',
   
   // 网页 keywords
-  keywords: 'book, book-cli, doc, example',
+  keywords: 'blueju, blog',
 
   // 网页 description
-  description: 'Init html book with markdown files.',
+  description: 'blueju\'s blog.',
 
   // 链接是否打开新的窗口
   openNewWindow: true,
 
   // 页面右上角的 github 链接
-  github: 'https://github.com/vvpvvp/book-cli',
+  github: 'https://github.com/blueju/blog',
 
   // 左侧目录的md文件
   summaryMd: 'SUMMARY.md',
