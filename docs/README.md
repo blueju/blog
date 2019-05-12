@@ -2,11 +2,11 @@
 
 blog.blueju.cn 是一个用于记录我博客文章并跳转的中转平台。
 
-简单来说，blog.blueju.cn 整合我写过的博客文章，尽管他们可能不在同一平台上。
+简单来说，blog.blueju.cn 整合我写过的博客文章，尽管它们可能不在同一平台上。
 
 ## 博客文章
 
-> 具体时间不分先后，大致起步为2018年9月
+> 具体时间不分先后，大致起始时间为2018年9月
 
 1. [一个iView表单Select的坑：v-model设置Select默认选项无效](https://shimo.im/docs/FpZFRYRbSwsUxR0W/read)
 
@@ -134,7 +134,7 @@ blog.blueju.cn 是一个用于记录我博客文章并跳转的中转平台。
 
 63. [基于宝塔面板,使用Memcached加速你的WordPress](https://shimo.im/docs/Q0zL3vVFS2IJ3r6q/ 《基于宝塔面板,使用Memcached加速你的WordPress》，可复制链接后用石墨文档 App 打开)
 
-64. [vue-router在Vue脚手架(vue-cli)中的正确使用姿势](https://shimo.im/docs/u6XcAf8m3fEVCftP/ 《vue-router在Vue脚手架(vue-cli)中的正确使用姿势》，可复制链接后用石墨文档 App 打开)
+64. [vue-router在Vue脚手架(vue-cli)中的正确使用姿势](https://shimo.im/docs/u6XcAf8m3fEVCftP/)
 
 65. [npm常用命令](https://shimo.im/docs/FpuugWma29sULHgG/ 《npm常用命令》，可复制链接后用石墨文档 App 打开)
 
