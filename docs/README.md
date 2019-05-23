@@ -8,7 +8,7 @@ blog.blueju.cn 是一个用于记录我博客文章并跳转的中转平台。
 
 > 具体时间不分先后，大致起始时间为2018年9月
 
-1. [Element或iView中resetFields()无效的问题](https://shimo.im/docs/ufP7nzH13d0OlNTJ/ 《Element或iView中resetFields()无效的问题》，可复制链接后用石墨文档 App 或小程序打开)
+1. [Element或iView中resetFields()无效的问题](https://shimo.im/docs/ufP7nzH13d0OlNTJ/ )
 
 2. [GitHub Pages 自定义域名](https://docs.qq.com/doc/DUk5TU1Z3Y2xqRkZY)
 
