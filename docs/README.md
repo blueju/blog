@@ -8,7 +8,7 @@ blog.blueju.cn 是一个用于记录我博客文章并跳转的中转平台。
 
 > 具体时间不分先后，大致起始时间为2018年9月
 
-1. [toString()和toLocaleString()的区别](https://shimo.im/docs/EsMSf4HZtrIKSmDK/ 《toString()和toLocaleString()的区别》，可复制链接后用石墨文档 App 或小程序打开)
+1. [toString()和toLocaleString()的区别](https://shimo.im/docs/EsMSf4HZtrIKSmDK/ )
 
 2. [划重点：所有函数的参数都是按值传递的](https://shimo.im/docs/ArXJ90CvPgMIUcyG/ 《划重点：所有函数的参数都是按值传递的》，可复制链接后用石墨文档 App 或小程序打开)
 
