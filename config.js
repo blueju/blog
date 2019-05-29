@@ -12,7 +12,7 @@ var CONFIG = {
   openNewWindow: true,
 
   // 页面右上角的 github 链接
-  github: '',
+  github: 'https://github.com/blueju/',
 
   // 左侧目录的md文件
   summaryMd: 'SUMMARY.md',
