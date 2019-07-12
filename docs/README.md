@@ -16,7 +16,7 @@ blog.blueju.cn 是一个用于记录我博客文章并跳转的中转平台。
 >
 > 新博客文章，使用阿里巴巴的语雀文档进行撰写及管理。
 
-1. [JavaScript实现栈跟队列](https://www.yuque.com/docs/share/0a86d93c-3d79-4667-ac07-38d201cb0d61)
+1. [JavaScript 实现栈跟队列](https://www.yuque.com/docs/share/0a86d93c-3d79-4667-ac07-38d201cb0d61)
 
 2. [JavaScript 插入排序](https://www.yuque.com/docs/share/02a2bd6f-7b77-4404-bee6-5ff55b42f9d9)
 
