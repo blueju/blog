@@ -16,39 +16,23 @@ blog.blueju.cn 是一个用于记录我博客文章并跳转的中转平台。
 >
 > 新博客文章，使用阿里巴巴的语雀文档进行撰写及管理。
 
-1. [JavaScript 实现栈跟队列](https://www.yuque.com/docs/share/0a86d93c-3d79-4667-ac07-38d201cb0d61)
-
-2. [JavaScript 插入排序](https://www.yuque.com/docs/share/02a2bd6f-7b77-4404-bee6-5ff55b42f9d9)
-
-3. [JavaScript 冒泡排序](https://www.yuque.com/docs/share/e64885f6-344d-49b1-a4f5-56955decabeb)
-
-4. [JavaScript 快速排序](https://www.yuque.com/docs/share/36f87fee-8fe6-4fd3-941e-5dfd91bdbd07)
-
-5. [Flex布局](https://www.yuque.com/docs/share/b0b288ba-7175-4119-aacc-1ee247216742)
-
-6. [Grid布局](https://www.yuque.com/docs/share/b0b288ba-7175-4119-aacc-1ee247216742)
-
-7. [offsetXX、clientXX、scrollXX](https://www.yuque.com/docs/share/35c5709a-c119-43cc-a9aa-eec245ec9db5)
-
-8. [HTML5拖放](https://www.yuque.com/docs/share/13e1c2da-b902-4a34-80cb-1c799b37f72b)
-
-9. [一道？？？的笔试题](https://www.yuque.com/docs/share/d2f2f025-09ed-4094-b54b-017059217d72)
-
-10. [一道集数组扁平化、去重、排序于一体的笔试题](https://www.yuque.com/docs/share/66a97bf3-98db-42b0-b708-8945f1f98b19)
-
-11. [函数传参window](https://www.yuque.com/docs/share/e25ea536-0fad-4b37-af90-5aa993529b1c)
-
-12. [一道Promise笔试题](https://www.yuque.com/docs/share/0b659873-68db-4566-a10e-44929dc22e95)
-
-13. [JS中变量提升和函数提升的优先级](https://www.yuque.com/docs/share/cffd3bfd-faa8-486f-a9b7-d2ec7b4deacf)
-
-14. [小心Object.defineProperty中的set方法死循环](https://www.yuque.com/docs/share/a8ff169f-0acd-4fa6-86a6-7d1829f88689)
-
-15. [小心Object.defineProperty中的get方法死循环](https://www.yuque.com/docs/share/46cf1deb-ba89-4c1e-b666-877cb217f108)
-
-16. [Vue源码中的proxy代理](https://www.yuque.com/docs/share/dcd7d8db-d0d2-4d84-9c87-6de306733dfc)
-
-17. [JavaScript 中 for in、for of 的区别](https://www.yuque.com/docs/share/931ce575-8b87-4abc-972a-869526fc2ed9)
-
-18. 
+1. [POST的几种数据提交方式](https://www.yuque.com/docs/share/097af11c-5872-4774-b6a8-087b60d84bc6)
+2. [JavaScript 实现栈跟队列](https://www.yuque.com/docs/share/0a86d93c-3d79-4667-ac07-38d201cb0d61)
+3. [JavaScript 插入排序](https://www.yuque.com/docs/share/02a2bd6f-7b77-4404-bee6-5ff55b42f9d9)
+4. [JavaScript 冒泡排序](https://www.yuque.com/docs/share/e64885f6-344d-49b1-a4f5-56955decabeb)
+5. [JavaScript 快速排序](https://www.yuque.com/docs/share/36f87fee-8fe6-4fd3-941e-5dfd91bdbd07)
+6. [Flex布局](https://www.yuque.com/docs/share/b0b288ba-7175-4119-aacc-1ee247216742)
+7. [Grid布局](https://www.yuque.com/docs/share/b0b288ba-7175-4119-aacc-1ee247216742)
+8. [offsetXX、clientXX、scrollXX](https://www.yuque.com/docs/share/35c5709a-c119-43cc-a9aa-eec245ec9db5)
+9. [HTML5拖放](https://www.yuque.com/docs/share/13e1c2da-b902-4a34-80cb-1c799b37f72b)
+10. [一道？？？的笔试题](https://www.yuque.com/docs/share/d2f2f025-09ed-4094-b54b-017059217d72)
+11. [一道集数组扁平化、去重、排序于一体的笔试题](https://www.yuque.com/docs/share/66a97bf3-98db-42b0-b708-8945f1f98b19)
+12. [函数传参window](https://www.yuque.com/docs/share/e25ea536-0fad-4b37-af90-5aa993529b1c)
+13. [一道Promise笔试题](https://www.yuque.com/docs/share/0b659873-68db-4566-a10e-44929dc22e95)
+14. [JS中变量提升和函数提升的优先级](https://www.yuque.com/docs/share/cffd3bfd-faa8-486f-a9b7-d2ec7b4deacf)
+15. [小心Object.defineProperty中的set方法死循环](https://www.yuque.com/docs/share/a8ff169f-0acd-4fa6-86a6-7d1829f88689)
+16. [小心Object.defineProperty中的get方法死循环](https://www.yuque.com/docs/share/46cf1deb-ba89-4c1e-b666-877cb217f108)
+17. [Vue源码中的proxy代理](https://www.yuque.com/docs/share/dcd7d8db-d0d2-4d84-9c87-6de306733dfc)
+18. [JavaScript 中 for in、for of 的区别](https://www.yuque.com/docs/share/931ce575-8b87-4abc-972a-869526fc2ed9)
+19. 
 
