@@ -12,7 +12,7 @@ blog.blueju.cn 是一个用于记录我博客文章并跳转的中转平台。
 >
 > 新博客文章，使用阿里巴巴的语雀文档进行撰写及管理。
 
-1. [lazyLoad懒加载](https://www.yuque.com/docs/share/692b4f7d-e098-47e8-8072-d9a8d145aec5)
+1. [lazyLoad懒加载](https://www.yuque.com/docs/share/89f17d75-8884-4770-afc0-dc8a0b9ceb79)
 2. [CORS](https://www.yuque.com/docs/share/692b4f7d-e098-47e8-8072-d9a8d145aec5)
 3. [instanceof](https://www.yuque.com/docs/share/1ad561a3-e77f-4725-8640-3b813f17c758)
 4. [Blob](https://www.yuque.com/docs/share/8ff796d0-e556-40a3-a8b2-314d1841a0f5)
