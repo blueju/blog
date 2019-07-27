@@ -12,7 +12,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "server": "static-html-server -p 5000"
+    "start": "static-html-server -p 5000"
   },
   "repository": {
     "type": "git",
