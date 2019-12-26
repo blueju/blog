@@ -11,6 +11,18 @@ blog.blueju.cn 是一个用于记录我博客文章并跳转的中转平台。
 > 旧博客文章，即使用石墨文档写的文章，已归类自旧博客文章。
 >
 > 新博客文章，使用阿里巴巴的语雀文档进行撰写及管理。
+>
+>  
+>
+> 自8月份以来，就基本没更新此博客了，甚是抱歉，但是好在写博客记笔记的习惯没有断，一直都有在书写，只是只写在了语雀文档中，没有 git push 到 github。
+>
+> 
+>
+> 我的语雀文档地址：
+>
+> https://www.yuque.com/books/share/e00b1027-16ce-40f0-8b75-a9b0e562b1c4
+>
+>  
 
 1. [ES6和Node在导出模块的语法差异](https://www.yuque.com/docs/share/3fb4e540-1410-45fc-9b58-8902a4ffb4b8)
 2. [JavaScript 隐式类型转换](https://www.yuque.com/docs/share/3fb4e540-1410-45fc-9b58-8902a4ffb4b8)
